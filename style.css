@@ -1,0 +1,19 @@
+.box1{
+    border-style: dashed;
+border: 1px solid red;
+
+height: 100px;
+width: 100px;
+}
+
+
+
+.div1,
+.div2
+{
+    display: inline-block;
+    width: 50%;
+    height: 50px;
+    border: 1px solid red;
+box-sizing: border-box;
+}
